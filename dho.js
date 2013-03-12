@@ -303,6 +303,7 @@
                     "name": "Clean Install Script",
                     "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
                 },
+                {
                     "name": "Photosphere Enabled Gallery",
                     "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
                 },
@@ -333,6 +334,7 @@
                     "name": "Clean Install Script",
                     "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
                 },
+                {
                     "name": "Photosphere Enabled Gallery",
                     "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
                 },
@@ -363,6 +365,7 @@
                     "name": "Clean Install Script",
                     "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
                 },
+                {
                     "name": "Photosphere Enabled Gallery",
                     "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
                 },
@@ -393,6 +396,7 @@
                     "name": "Clean Install Script",
                     "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
                 },
+                {
                     "name": "Photosphere Enabled Gallery",
                     "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
                 },
@@ -423,6 +427,7 @@
                     "name": "Clean Install Script",
                     "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
                 },
+                {
                     "name": "Photosphere Enabled Gallery",
                     "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
                 },
@@ -449,6 +454,10 @@
                 "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
             ],
             "addons": [
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                },
                 {
                     "name": "Photosphere Enabled Gallery",
                     "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
