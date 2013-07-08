@@ -1399,6 +1399,130 @@
             ]
         },
         {
+            "device": "i605",
+            "name": "Vanir",
+            "modversion": "v4.2.2.2",
+            "incremental": "39",
+            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/07-08-2013/vanir_i605_v4.2.2.2.070813.zip",
+            "product": "Vanir",
+            "summary": "Get DHO's latest nightly in this folder: http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/ ",
+            "screenshots": [
+                "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
+                "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
+                "https://lh4.googleusercontent.com/--GDUNMzMDpE/UNeygoG6SDI/AAAAAAAAC8Q/3hqG3Klhdj4/s587/Screenshot_2012-12-20-13-48-56.png",
+                "https://lh4.googleusercontent.com/-sAYJoG9RFGw/UNeyhfzvphI/AAAAAAAAC8k/UiBM2rKWaY8/s587/Screenshot_2012-12-20-13-49-20.png",
+                "https://lh6.googleusercontent.com/-WLSwB5FyLBY/UNeyh29jsjI/AAAAAAAAC84/XhrNqicqjzg/s587/Screenshot_2012-12-20-13-49-45.png",
+                "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
+            ],
+            "addons": [
+                {
+                    "name": "DHO's Gapps",
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
+                },
+                {
+                    "name": "Photosphere Enabled Gallery",
+                    "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
+                },
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                }
+            ]
+        },
+        {
+            "device": "jflteatt",
+            "name": "Vanir",
+            "modversion": "v4.2.2.2",
+            "incremental": "39",
+            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/07-08-2013/vanir_jflteatt_v4.2.2.2.070813.zip",
+            "product": "Vanir",
+            "summary": "Get DHO's latest nightly in this folder: http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/ ",
+            "screenshots": [
+                "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
+                "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
+                "https://lh4.googleusercontent.com/--GDUNMzMDpE/UNeygoG6SDI/AAAAAAAAC8Q/3hqG3Klhdj4/s587/Screenshot_2012-12-20-13-48-56.png",
+                "https://lh4.googleusercontent.com/-sAYJoG9RFGw/UNeyhfzvphI/AAAAAAAAC8k/UiBM2rKWaY8/s587/Screenshot_2012-12-20-13-49-20.png",
+                "https://lh6.googleusercontent.com/-WLSwB5FyLBY/UNeyh29jsjI/AAAAAAAAC84/XhrNqicqjzg/s587/Screenshot_2012-12-20-13-49-45.png",
+                "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
+            ],
+            "addons": [
+                {
+                    "name": "DHO's Gapps",
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
+                },
+                {
+                    "name": "Photosphere Enabled Gallery",
+                    "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
+                },
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                }
+            ]
+        },
+        {
+            "device": "jfltespr",
+            "name": "Vanir",
+            "modversion": "v4.2.2.2",
+            "incremental": "39",
+            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/07-08-2013/vanir_jfltespr_v4.2.2.2.070813.zip",
+            "product": "Vanir",
+            "summary": "Get DHO's latest nightly in this folder: http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/ ",
+            "screenshots": [
+                "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
+                "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
+                "https://lh4.googleusercontent.com/--GDUNMzMDpE/UNeygoG6SDI/AAAAAAAAC8Q/3hqG3Klhdj4/s587/Screenshot_2012-12-20-13-48-56.png",
+                "https://lh4.googleusercontent.com/-sAYJoG9RFGw/UNeyhfzvphI/AAAAAAAAC8k/UiBM2rKWaY8/s587/Screenshot_2012-12-20-13-49-20.png",
+                "https://lh6.googleusercontent.com/-WLSwB5FyLBY/UNeyh29jsjI/AAAAAAAAC84/XhrNqicqjzg/s587/Screenshot_2012-12-20-13-49-45.png",
+                "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
+            ],
+            "addons": [
+                {
+                    "name": "DHO's Gapps",
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
+                },
+                {
+                    "name": "Photosphere Enabled Gallery",
+                    "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
+                },
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                }
+            ]
+        },
+        {
+            "device": "jfltevzw",
+            "name": "Vanir",
+            "modversion": "v4.2.2.2",
+            "incremental": "39",
+            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/07-08-2013/vanir_jfltevzw_v4.2.2.2.070813.zip",
+            "product": "Vanir",
+            "summary": "Get DHO's latest nightly in this folder: http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/ ",
+            "screenshots": [
+                "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
+                "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
+                "https://lh4.googleusercontent.com/--GDUNMzMDpE/UNeygoG6SDI/AAAAAAAAC8Q/3hqG3Klhdj4/s587/Screenshot_2012-12-20-13-48-56.png",
+                "https://lh4.googleusercontent.com/-sAYJoG9RFGw/UNeyhfzvphI/AAAAAAAAC8k/UiBM2rKWaY8/s587/Screenshot_2012-12-20-13-49-20.png",
+                "https://lh6.googleusercontent.com/-WLSwB5FyLBY/UNeyh29jsjI/AAAAAAAAC84/XhrNqicqjzg/s587/Screenshot_2012-12-20-13-49-45.png",
+                "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
+            ],
+            "addons": [
+                {
+                    "name": "DHO's Gapps",
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
+                },
+                {
+                    "name": "Photosphere Enabled Gallery",
+                    "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
+                },
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                }
+            ]
+        },
+        {
             "device": "toro",
             "name": "CNS",
             "modversion": "CNS-B4",
