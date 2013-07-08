@@ -6,11 +6,11 @@
         {
             "device": "toro",
             "name": "Commotio",
-            "modversion": "Commotio-B49",
-            "incremental": "47",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B49/B49-Commotio-TORO.zip",
+            "modversion": "Commotio-B55",
+            "incremental": "55",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B55/B55-Commotio-TORO.zip",
             "product": "Commotio",
-            "summary": "Build 49 - 4.2.2",
+            "summary": "Build 55 - 4.2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -99,11 +99,11 @@
         {
             "device": "maguro",
             "name": "Commotio",
-            "modversion": "Commotio-B49",
-            "incremental": "47",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B49/B49-Commotio-MAGURO.zip",
+            "modversion": "Commotio-B55",
+            "incremental": "55",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B55/B55-Commotio-MAGURO.zip",
             "product": "Commotio",
-            "summary": "Build 49 - 4.2.2",
+            "summary": "Build 55 - 4.2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -223,11 +223,11 @@
         {
             "device": "toroplus",
             "name": "Commotio",
-            "modversion": "Commotio-B49",
-            "incremental": "47",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B49/B49-Commotio-TOROPLUS.zip",
+            "modversion": "Commotio-B55",
+            "incremental": "55",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B55/B55-Commotio-TOROPLUS.zip",
             "product": "Commotio",
-            "summary": "Build 49 - 4.2.2",
+            "summary": "Build 55 - 4.2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -316,11 +316,11 @@
         {
             "device": "grouper",
             "name": "Commotio",
-            "modversion": "Commotio-B49",
-            "incremental": "47",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B49/B49-Commotio-GROUPER.zip",
+            "modversion": "Commotio-B55",
+            "incremental": "55",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B55/B55-Commotio-GROUPER.zip",
             "product": "Commotio",
-            "summary": "Build 49 - 4.2.2 release",
+            "summary": "Build 55 - 4.2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -409,11 +409,11 @@
         {
             "device": "tilapia",
             "name": "Commotio",
-            "modversion": "Commotio-B49",
-            "incremental": "47",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B49/B49-Commotio-TILAPIA.zip",
+            "modversion": "Commotio-B55",
+            "incremental": "55",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B55/B55-Commotio-TILAPIA.zip",
             "product": "Commotio",
-            "summary": "Build 49 - 4.2.2 release",
+            "summary": "Build 55 - 4.2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -502,11 +502,11 @@
         {
             "device": "manta",
             "name": "Commotio",
-            "modversion": "Commotio-B49",
-            "incremental": "47",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B49/B49-Commotio-MANTA.zip",
+            "modversion": "Commotio-B55",
+            "incremental": "55",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B55/B55-Commotio-MANTA.zip",
             "product": "Commotio",
-            "summary": "Build 49 - 4.2.2 release",
+            "summary": "Build 55 - 4.2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -569,6 +569,37 @@
             "url": "http://goo.im/devs/DHO/2-Commotio/B50/B50-Commotio-MAKO.zip",
             "product": "Commotio",
             "summary": "Build M6 AKA B50 - 4.2.2",
+            "screenshots": [
+                "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
+                "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
+                "https://lh4.googleusercontent.com/--GDUNMzMDpE/UNeygoG6SDI/AAAAAAAAC8Q/3hqG3Klhdj4/s587/Screenshot_2012-12-20-13-48-56.png",
+                "https://lh4.googleusercontent.com/-sAYJoG9RFGw/UNeyhfzvphI/AAAAAAAAC8k/UiBM2rKWaY8/s587/Screenshot_2012-12-20-13-49-20.png",
+                "https://lh6.googleusercontent.com/-WLSwB5FyLBY/UNeyh29jsjI/AAAAAAAAC84/XhrNqicqjzg/s587/Screenshot_2012-12-20-13-49-45.png",
+                "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
+            ],
+            "addons": [
+                {
+                    "name": "Photosphere Enabled Gallery",
+                    "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
+                },
+                {
+                    "name": "Face Recognition for 4.2.1",
+                    "url": "http://goo.im/devs/DHO/8-addons/4.2-Face_Unlock.zip"
+                },
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                }
+            ]
+        },
+        {
+            "device": "mako",
+            "name": "Commotio",
+            "modversion": "Commotio-B55",
+            "incremental": "55",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B55/B55-Commotio-MAKO.zip",
+            "product": "Commotio",
+            "summary": "Build 55 - 4.2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -983,7 +1014,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1014,7 +1045,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1045,7 +1076,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1076,7 +1107,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1107,7 +1138,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1138,7 +1169,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1153,9 +1184,9 @@
         {
             "device": "toro",
             "name": "Vanir",
-            "modversion": "v4.2.2.1",
-            "incremental": "38",
-            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/06-09-2013/vanir_toro_v4.2.2.1.060913.zip",
+            "modversion": "v4.2.2.2",
+            "incremental": "39",
+            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/07-08-2013/vanir_toro_v4.2.2.2.070813.zip",
             "product": "Vanir",
             "summary": "Get DHO's latest nightly in this folder: http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/ ",
             "screenshots": [
@@ -1169,7 +1200,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1184,9 +1215,9 @@
         {
             "device": "maguro",
             "name": "Vanir",
-            "modversion": "v4.2.2.1",
-            "incremental": "38",
-            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/06-09-2013/vanir_maguro_v4.2.2.1.060913.zip",
+            "modversion": "v4.2.2.2",
+            "incremental": "39",
+            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/07-08-2013/vanir_maguro_v4.2.2.2.070813.zip",
             "product": "Vanir",
             "summary": "Get DHO's latest nightly in this folder: http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/ ",
             "screenshots": [
@@ -1200,7 +1231,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1215,9 +1246,9 @@
         {
             "device": "toroplus",
             "name": "Vanir",
-            "modversion": "v4.2.2.1",
-            "incremental": "38",
-            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/06-09-2013/vanir_toroplus_v4.2.2.1.060913.zip",
+            "modversion": "v4.2.2.2",
+            "incremental": "39",
+            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/07-08-2013/vanir_toroplus_v4.2.2.2.070813.zip",
             "product": "Vanir",
             "summary": "Get DHO's latest nightly in this folder: http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/ ",
             "screenshots": [
@@ -1231,7 +1262,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1246,9 +1277,9 @@
         {
             "device": "grouper",
             "name": "Vanir",
-            "modversion": "v4.2.2.1",
-            "incremental": "38",
-            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/06-09-2013/vanir_grouper_v4.2.2.1.060913.zip",
+            "modversion": "v4.2.2.2",
+            "incremental": "39",
+            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/07-08-2013/vanir_grouper_v4.2.2.2.070813.zip",
             "product": "Vanir",
             "summary": "Get DHO's latest nightly in this folder: http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/ ",
             "screenshots": [
@@ -1262,7 +1293,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1277,9 +1308,9 @@
         {
             "device": "tilapia",
             "name": "Vanir",
-            "modversion": "v4.2.2.1",
-            "incremental": "38",
-            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/06-09-2013/vanir_tilapia_v4.2.2.1.060913.zip",
+            "modversion": "v4.2.2.2",
+            "incremental": "39",
+            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/07-08-2013/vanir_tilapia_v4.2.2.2.070813.zip",
             "product": "Vanir",
             "summary": "Get DHO's latest nightly in this folder: http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/ ",
             "screenshots": [
@@ -1293,7 +1324,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1308,9 +1339,9 @@
         {
             "device": "manta",
             "name": "Vanir",
-            "modversion": "v4.2.2.1",
-            "incremental": "38",
-            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/06-09-2013/vanir_manta_v4.2.2.1.060913.zip",
+            "modversion": "v4.2.2.2",
+            "incremental": "39",
+            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/07-08-2013/vanir_manta_v4.2.2.2.070813.zip",
             "product": "Vanir",
             "summary": "Get DHO's latest nightly in this folder: http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/ ",
             "screenshots": [
@@ -1324,7 +1355,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1339,9 +1370,9 @@
         {
             "device": "mako",
             "name": "Vanir",
-            "modversion": "v4.2.2.1",
-            "incremental": "38",
-            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/06-09-2013/vanir_mako_v4.2.2.1.060913.zip",
+            "modversion": "v4.2.2.2",
+            "incremental": "39",
+            "url": "http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/07-08-2013/vanir_mako_v4.2.2.2.070813.zip",
             "product": "Vanir",
             "summary": "Get DHO's latest nightly in this folder: http://www.emccann.net/dho/3-Vanir-mirror/4-nighties/ ",
             "screenshots": [
@@ -1355,7 +1386,7 @@
             "addons": [
                 {
                     "name": "DHO's Gapps",
-                    "url": "http://goo.im/devs/DHO/4-GAPPs/B5-DHO-GAPPs.zip"
+                    "url": "http://goo.im/devs/DHO/4-GAPPs/B6-DHO-GAPPs.zip"
                 },
                 {
                     "name": "Photosphere Enabled Gallery",
@@ -1439,8 +1470,8 @@
         {
             "device": "grouper",
             "name": "CNS",
-            "modversion": "CNS-B3",
-            "incremental": "47",
+            "modversion": "CNS-B4",
+            "incremental": "43",
             "url": "http://goo.im/devs/DHO/4-CNS/B4-CNS-GROUPER.zip",
             "product": "CNS",
             "summary": "CNS started as my take on FNV (I was a minor contributor to FNV).  FNV has envolved into XYLON and CNS continued with a new base",
@@ -1462,8 +1493,8 @@
         {
             "device": "tilapia",
             "name": "CNS",
-            "modversion": "CNS-B3",
-            "incremental": "47",
+            "modversion": "CNS-B4",
+            "incremental": "43",
             "url": "http://goo.im/devs/DHO/4-CNS/B4-CNS-TILAPIA.zip",
             "product": "CNS",
             "summary": "CNS started as my take on FNV (I was a minor contributor to FNV).  FNV has envolved into XYLON and CNS continued with a new base",
@@ -1485,8 +1516,8 @@
         {
             "device": "mako",
             "name": "CNS",
-            "modversion": "CNS-B3",
-            "incremental": "46",
+            "modversion": "CNS-B4",
+            "incremental": "43",
             "url": "http://goo.im/devs/DHO/4-CNS/B4-CNS-MAKO.zip",
             "product": "CNS",
             "summary": "CNS started as my take on FNV (I was a minor contributor to FNV).  FNV has envolved into XYLON and CNS continued with a new base",
