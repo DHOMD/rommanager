@@ -37,11 +37,11 @@
         {
             "device": "toro",
             "name": "Commotio",
-            "modversion": "Commotio-B56",
-            "incremental": "56",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B56/B56-Commotio-TORO.zip",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-TORO.zip",
             "product": "Commotio",
-            "summary": "Build 56 - 4.2.2",
+            "summary": "Build 58 - 4.3_r2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -130,11 +130,11 @@
         {
             "device": "maguro",
             "name": "Commotio",
-            "modversion": "Commotio-B56",
-            "incremental": "56",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B56/B56-Commotio-MAGURO.zip",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-MAGURO.zip",
             "product": "Commotio",
-            "summary": "Build 56 - 4.2.2",
+            "summary": "Build 58 - 4.3_r2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -192,11 +192,11 @@
         {
             "device": "toroplus",
             "name": "Commotio",
-            "modversion": "Commotio-B56",
-            "incremental": "56",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B56/B56-Commotio-TOROPLUS.zip",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-TOROPLUS.zip",
             "product": "Commotio",
-            "summary": "Build 56 - 4.2.2",
+            "summary": "Build 58 - 4.3_r2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -285,11 +285,11 @@
         {
             "device": "grouper",
             "name": "Commotio",
-            "modversion": "Commotio-B56",
-            "incremental": "56",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B56/B56-Commotio-GROUPER.zip",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-GROUPER.zip",
             "product": "Commotio",
-            "summary": "Build 56 - 4.2.2",
+            "summary": "Build 58 - 4.3_r2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -378,11 +378,11 @@
         {
             "device": "tilapia",
             "name": "Commotio",
-            "modversion": "Commotio-B56",
-            "incremental": "56",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B56/B56-Commotio-TILAPIA.zip",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-TILAPIA.zip",
             "product": "Commotio",
-            "summary": "Build 56 - 4.2.2",
+            "summary": "Build 58 - 4.3_r2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -471,11 +471,11 @@
         {
             "device": "manta",
             "name": "Commotio",
-            "modversion": "Commotio-B56",
-            "incremental": "56",
-            "url": "http://goo.im/devs/DHO/2-Commotio/B56/B56-Commotio-MANTA.zip",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-MANTA.zip",
             "product": "Commotio",
-            "summary": "Build 56 - 4.2.2",
+            "summary": "Build 58 - 4.3_r2.2",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
@@ -600,6 +600,192 @@
             "url": "http://goo.im/devs/DHO/2-Commotio/B57/B57-Commotio-MAKO.zip",
             "product": "Commotio",
             "summary": "Build 57 - 4.3",
+            "screenshots": [
+                "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
+                "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
+                "https://lh4.googleusercontent.com/--GDUNMzMDpE/UNeygoG6SDI/AAAAAAAAC8Q/3hqG3Klhdj4/s587/Screenshot_2012-12-20-13-48-56.png",
+                "https://lh4.googleusercontent.com/-sAYJoG9RFGw/UNeyhfzvphI/AAAAAAAAC8k/UiBM2rKWaY8/s587/Screenshot_2012-12-20-13-49-20.png",
+                "https://lh6.googleusercontent.com/-WLSwB5FyLBY/UNeyh29jsjI/AAAAAAAAC84/XhrNqicqjzg/s587/Screenshot_2012-12-20-13-49-45.png",
+                "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
+            ],
+            "addons": [
+                {
+                    "name": "Photosphere Enabled Gallery",
+                    "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
+                },
+                {
+                    "name": "Face Recognition for 4.2.1",
+                    "url": "http://goo.im/devs/DHO/8-addons/4.2-Face_Unlock.zip"
+                },
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                }
+            ]
+        },
+        {
+            "device": "mako",
+            "name": "Commotio",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-MAKO.zip",
+            "product": "Commotio",
+            "summary": "Build 58 - 4.3",
+            "screenshots": [
+                "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
+                "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
+                "https://lh4.googleusercontent.com/--GDUNMzMDpE/UNeygoG6SDI/AAAAAAAAC8Q/3hqG3Klhdj4/s587/Screenshot_2012-12-20-13-48-56.png",
+                "https://lh4.googleusercontent.com/-sAYJoG9RFGw/UNeyhfzvphI/AAAAAAAAC8k/UiBM2rKWaY8/s587/Screenshot_2012-12-20-13-49-20.png",
+                "https://lh6.googleusercontent.com/-WLSwB5FyLBY/UNeyh29jsjI/AAAAAAAAC84/XhrNqicqjzg/s587/Screenshot_2012-12-20-13-49-45.png",
+                "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
+            ],
+            "addons": [
+                {
+                    "name": "Photosphere Enabled Gallery",
+                    "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
+                },
+                {
+                    "name": "Face Recognition for 4.2.1",
+                    "url": "http://goo.im/devs/DHO/8-addons/4.2-Face_Unlock.zip"
+                },
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                }
+            ]
+        },
+        {
+            "device": "jfltevzw",
+            "name": "Commotio",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-JFLTEVZW.zip",
+            "product": "Commotio",
+            "summary": "Build 58 - 4.3",
+            "screenshots": [
+                "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
+                "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
+                "https://lh4.googleusercontent.com/--GDUNMzMDpE/UNeygoG6SDI/AAAAAAAAC8Q/3hqG3Klhdj4/s587/Screenshot_2012-12-20-13-48-56.png",
+                "https://lh4.googleusercontent.com/-sAYJoG9RFGw/UNeyhfzvphI/AAAAAAAAC8k/UiBM2rKWaY8/s587/Screenshot_2012-12-20-13-49-20.png",
+                "https://lh6.googleusercontent.com/-WLSwB5FyLBY/UNeyh29jsjI/AAAAAAAAC84/XhrNqicqjzg/s587/Screenshot_2012-12-20-13-49-45.png",
+                "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
+            ],
+            "addons": [
+                {
+                    "name": "Photosphere Enabled Gallery",
+                    "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
+                },
+                {
+                    "name": "Face Recognition for 4.2.1",
+                    "url": "http://goo.im/devs/DHO/8-addons/4.2-Face_Unlock.zip"
+                },
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                }
+            ]
+        },
+        {
+            "device": "jflteatt",
+            "name": "Commotio",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-JFLEATT.zip",
+            "product": "Commotio",
+            "summary": "Build 58 - 4.3",
+            "screenshots": [
+                "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
+                "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
+                "https://lh4.googleusercontent.com/--GDUNMzMDpE/UNeygoG6SDI/AAAAAAAAC8Q/3hqG3Klhdj4/s587/Screenshot_2012-12-20-13-48-56.png",
+                "https://lh4.googleusercontent.com/-sAYJoG9RFGw/UNeyhfzvphI/AAAAAAAAC8k/UiBM2rKWaY8/s587/Screenshot_2012-12-20-13-49-20.png",
+                "https://lh6.googleusercontent.com/-WLSwB5FyLBY/UNeyh29jsjI/AAAAAAAAC84/XhrNqicqjzg/s587/Screenshot_2012-12-20-13-49-45.png",
+                "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
+            ],
+            "addons": [
+                {
+                    "name": "Photosphere Enabled Gallery",
+                    "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
+                },
+                {
+                    "name": "Face Recognition for 4.2.1",
+                    "url": "http://goo.im/devs/DHO/8-addons/4.2-Face_Unlock.zip"
+                },
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                }
+            ]
+        },
+        {
+            "device": "jfltespr",
+            "name": "Commotio",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-JFLESPR.zip",
+            "product": "Commotio",
+            "summary": "Build 58 - 4.3",
+            "screenshots": [
+                "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
+                "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
+                "https://lh4.googleusercontent.com/--GDUNMzMDpE/UNeygoG6SDI/AAAAAAAAC8Q/3hqG3Klhdj4/s587/Screenshot_2012-12-20-13-48-56.png",
+                "https://lh4.googleusercontent.com/-sAYJoG9RFGw/UNeyhfzvphI/AAAAAAAAC8k/UiBM2rKWaY8/s587/Screenshot_2012-12-20-13-49-20.png",
+                "https://lh6.googleusercontent.com/-WLSwB5FyLBY/UNeyh29jsjI/AAAAAAAAC84/XhrNqicqjzg/s587/Screenshot_2012-12-20-13-49-45.png",
+                "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
+            ],
+            "addons": [
+                {
+                    "name": "Photosphere Enabled Gallery",
+                    "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
+                },
+                {
+                    "name": "Face Recognition for 4.2.1",
+                    "url": "http://goo.im/devs/DHO/8-addons/4.2-Face_Unlock.zip"
+                },
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                }
+            ]
+        },
+        {
+            "device": "jfltetmo",
+            "name": "Commotio",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-JFLETMO.zip",
+            "product": "Commotio",
+            "summary": "Build 58 - 4.3",
+            "screenshots": [
+                "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
+                "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
+                "https://lh4.googleusercontent.com/--GDUNMzMDpE/UNeygoG6SDI/AAAAAAAAC8Q/3hqG3Klhdj4/s587/Screenshot_2012-12-20-13-48-56.png",
+                "https://lh4.googleusercontent.com/-sAYJoG9RFGw/UNeyhfzvphI/AAAAAAAAC8k/UiBM2rKWaY8/s587/Screenshot_2012-12-20-13-49-20.png",
+                "https://lh6.googleusercontent.com/-WLSwB5FyLBY/UNeyh29jsjI/AAAAAAAAC84/XhrNqicqjzg/s587/Screenshot_2012-12-20-13-49-45.png",
+                "https://lh5.googleusercontent.com/-zIMzWt97oZk/UNeyhWFo7UI/AAAAAAAAC8s/F1MScjf4TCU/s587/Screenshot_2012-12-20-13-49-33.png"
+            ],
+            "addons": [
+                {
+                    "name": "Photosphere Enabled Gallery",
+                    "url": "http://goo.im/devs/DHO/8-addons/Photosphere_gallery.zip"
+                },
+                {
+                    "name": "Face Recognition for 4.2.1",
+                    "url": "http://goo.im/devs/DHO/8-addons/4.2-Face_Unlock.zip"
+                },
+                {
+                    "name": "Clean Install Script",
+                    "url": "http://goo.im/devs/DHO/8-addons/Clean_Install.zip"
+                }
+            ]
+        },
+        {
+            "device": "yuga",
+            "name": "Commotio",
+            "modversion": "Commotio-B58",
+            "incremental": "58",
+            "url": "http://goo.im/devs/DHO/2-Commotio/B58/B58-Commotio-YUGA.zip",
+            "product": "Commotio",
+            "summary": "Build 58 - 4.3",
             "screenshots": [
                 "https://lh5.googleusercontent.com/-bPf0XKFgLxc/UNeyfzLaoiI/AAAAAAAAC8A/EbAkJ30GdQM/s587/Screenshot_2012-12-20-13-48-23.png",
                 "https://lh6.googleusercontent.com/-YmSfwoxd3J8/UNeygaP1ykI/AAAAAAAAC8M/6PM5F3hckws/s587/Screenshot_2012-12-20-13-48-39.png",
